@@ -1,0 +1,17 @@
+C:\Teacher Toolkit\Teacher Toolkit Improvement 1.0\Teacher Toolkit Improvement 1.0\bin\Debug\Teacher Toolkit Improvement 1.0.exe.config
+C:\Teacher Toolkit\Teacher Toolkit Improvement 1.0\Teacher Toolkit Improvement 1.0\bin\Debug\Teacher Toolkit Improvement 1.0.exe
+C:\Teacher Toolkit\Teacher Toolkit Improvement 1.0\Teacher Toolkit Improvement 1.0\bin\Debug\Teacher Toolkit Improvement 1.0.pdb
+C:\Teacher Toolkit\Teacher Toolkit Improvement 1.0\Teacher Toolkit Improvement 1.0\obj\Debug\Teacher Toolkit Improvement 1.0.csproj.AssemblyReference.cache
+C:\Teacher Toolkit\Teacher Toolkit Improvement 1.0\Teacher Toolkit Improvement 1.0\obj\Debug\Teacher Toolkit Improvement 1.0.csproj.SuggestedBindingRedirects.cache
+C:\Teacher Toolkit\Teacher Toolkit Improvement 1.0\Teacher Toolkit Improvement 1.0\obj\Debug\Teacher_Toolkit_Improvement_1._0.Login.resources
+C:\Teacher Toolkit\Teacher Toolkit Improvement 1.0\Teacher Toolkit Improvement 1.0\obj\Debug\Teacher_Toolkit_Improvement_1._0.Properties.Resources.resources
+C:\Teacher Toolkit\Teacher Toolkit Improvement 1.0\Teacher Toolkit Improvement 1.0\obj\Debug\Teacher Toolkit Improvement 1.0.csproj.GenerateResource.cache
+C:\Teacher Toolkit\Teacher Toolkit Improvement 1.0\Teacher Toolkit Improvement 1.0\obj\Debug\Teacher Toolkit Improvement 1.0.csproj.CoreCompileInputs.cache
+C:\Teacher Toolkit\Teacher Toolkit Improvement 1.0\Teacher Toolkit Improvement 1.0\obj\Debug\Teacher Toolkit Improvement 1.0.exe
+C:\Teacher Toolkit\Teacher Toolkit Improvement 1.0\Teacher Toolkit Improvement 1.0\obj\Debug\Teacher Toolkit Improvement 1.0.pdb
+C:\Teacher Toolkit\Teacher Toolkit Improvement 1.0\Teacher Toolkit Improvement 1.0\obj\Debug\Teacher_Toolkit_Improvement_1._0.Hub.resources
+C:\Teacher Toolkit\Teacher Toolkit Improvement 1.0\Teacher Toolkit Improvement 1.0\obj\Debug\Teacher_Toolkit_Improvement_1._0.TourOfTheToolkit.resources
+C:\Teacher Toolkit\Teacher Toolkit Improvement 1.0\Teacher Toolkit Improvement 1.0\obj\Debug\Teacher_Toolkit_Improvement_1._0.DiceRoll.resources
+C:\Teacher Toolkit\Teacher Toolkit Improvement 1.0\Teacher Toolkit Improvement 1.0\obj\Debug\Teacher_Toolkit_Improvement_1._0.RandomNumberGen.resources
+C:\Teacher Toolkit\Teacher Toolkit Improvement 1.0\Teacher Toolkit Improvement 1.0\obj\Debug\Teacher_Toolkit_Improvement_1._0.StudentGen.resources
+C:\Teacher Toolkit\Teacher Toolkit Improvement 1.0\Teacher Toolkit Improvement 1.0\obj\Debug\Teacher_Toolkit_Improvement_1._0.StopwatchTimer.resources
